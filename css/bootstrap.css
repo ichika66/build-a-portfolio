@@ -1503,3 +1503,11 @@ address {
 .affix {
   position: fixed;
 }
+
+
+svg#logo {
+  fill: #666;
+  height: 6vw;
+  margin: 0 auto 0.5em auto;
+  width: 6vw;
+}
