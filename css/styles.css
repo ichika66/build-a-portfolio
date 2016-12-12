@@ -20,3 +20,35 @@ img, embed,
 object, video {
 	max-width: 100%;
 }
+
+.path-1 {
+	fill:#d8dbdb;
+}
+
+.path-2{
+	fill:#676767;
+}
+
+.path-3 {
+	fill:#d8dbdb;
+}
+
+.path-4 {
+	fill:#e4e7e7;
+}
+
+.path-5 {
+	fill:#dde0e0;
+}
+
+.path-6 {
+	fill:#c7caca;
+}
+
+.path-7 {
+	fill:#3db39e;
+}
+
+.path-8 {
+	fill:#38a592;
+}
