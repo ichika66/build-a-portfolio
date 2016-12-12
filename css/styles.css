@@ -21,16 +21,12 @@ object, video {
 	max-width: 100%;
 }
 
-.path-1 {
+.path-1, .path-3 {
 	fill:#d8dbdb;
 }
 
 .path-2{
 	fill:#676767;
-}
-
-.path-3 {
-	fill:#d8dbdb;
 }
 
 .path-4 {
